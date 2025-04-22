@@ -34,7 +34,7 @@ To explore or modify the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/forensic-wiki.git
+   git clone https://github.com/MithunBasavaraju/forensic-wiki.git
 2. Open the project folder in VS Code
 
 3. Open index.html in your browser
